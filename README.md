@@ -20,7 +20,7 @@ Here are some pictures showcasing achievements during the learning process.
 ## SUMMER 2022 | 9th Nov 2022
 
 <p align="center">
-  <img src="https://i.ibb.co/CKBb32R/image.png" width="100%" title="Honorable Student">
+  <img src="https://i.ibb.co/s3MRRgm/image.png" width="100%" title="Honorable Student">
 </p>
 
 ## SPRING 2022 | 13th July 2022
