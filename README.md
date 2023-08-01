@@ -4,7 +4,7 @@
 Here are some pictures showcasing achievements during the learning process.
 
 
-## Spring 2023 | 17th May 2023
+## Spring 2023 | 21th Jun 2023
 
 ![SP_23](img/spring_23.jpg)
 
