@@ -3,6 +3,9 @@
 
 Here are some pictures showcasing achievements during the learning process.
 
+## Summer 2024 | Oct 2024
+
+![SU_24](img/sum_24.jpg)
 
 ## Spring 2023 | 21th Jun 2023
 
